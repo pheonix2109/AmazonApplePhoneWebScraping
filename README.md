@@ -28,5 +28,7 @@ TOOLS:
 
      BeautifulSoup
 
-PYTHON CODE:
+PYTHON NOTEBOOK:
+
+    https://github.com/pheonix2109/AmazonApplePhoneWebScraping/blob/main/Amazon_WebScrapping_Final.ipynb
     
