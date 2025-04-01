@@ -26,3 +26,7 @@ APPROACH FOR THE PROJECT:
 
 TOOLS:
 
+     BeautifulSoup
+
+PYTHON CODE:
+    
