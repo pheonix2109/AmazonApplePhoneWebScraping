@@ -13,20 +13,20 @@ GOAL:
 APPROACH FOR THE PROJECT:
   
     1. Sending Requests:
-      - Use libraries like requests or selenium to send HTTP requests to Amazon pages.
-      - Retrieve the HTML content of product pages.
+      - Used libraries like requests to send HTTP requests to Amazon pages.
+      - Retrieved the HTML content of product pages.
 
     2. Parsing HTML:
-      - Use tools like BeautifulSoup or lxml to parse the HTML content.
-      - Extract specific data such as price, title, ratings, reviews, product descriptions, etc. using CSS selectors or XPath.
+      - Used tool BeautifulSoup to parse the HTML content.
+      - Extracted specific data such as price, title, ratings, reviews using CSS selectors.
 
     3. Storing Data:
-      - Save the extracted data to a file (CSV).
+      - Saved the extracted data to a file (CSV).
    
 
 TOOLS:
 
-     BeautifulSoup
+     Request, BeautifulSoup
 
 PYTHON NOTEBOOK:
 
